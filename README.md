@@ -1,4 +1,4 @@
-### Hey ! I'm Shrikanth👋 
+# Hey ! I'm Shrikanth👋 
 
  I'm pursuing my undergraduate degree in Computer Science at Coimbatore Institute of Technology.
 
