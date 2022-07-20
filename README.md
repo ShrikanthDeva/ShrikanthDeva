@@ -4,7 +4,7 @@
 
 ### Reach me @ - 
 
-  - E-mail   : shrikanthdeva02@gmail.com
+  - E-mail   : shrikanthdeva02@gmail.com / shri13kanth@gmail.com
   - LinkedIn : https://www.linkedin.com/in/shrikanth-devanathan/
 <!--
 **ShrikanthDeva/ShrikanthDeva** is a ✨ _special_ ✨ repository because its README.md` (this file) appears on your GitHub profile.
