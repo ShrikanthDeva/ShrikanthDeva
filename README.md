@@ -67,8 +67,8 @@
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrikanthDeva&layout=compact&langs_count=8&hide_progress=true)](https://github.com/ShrikanthDeva)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrikanthDeva&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/ShrikanthDeva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrikanthDeva&layout=compact&langs_count=10&hide_progress=true)](https://github.com/ShrikanthDeva)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrikanthDeva&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/ShrikanthDeva)
 
 ## 🤝🏻 Connect with Me
 
