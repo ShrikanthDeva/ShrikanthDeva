@@ -1,8 +1,8 @@
 # Hey ! I'm Shrikanth👋 ![Profile Views](https://komarev.com/ghpvc/?username=ShrikanthDeva&color=brightgreen)
 
-+ I am a pre-final year undergraduate pursuing my bachelor's degree in Computer Science & Engineering. 
-+ I am a passionate full-stack developer who loves to explore, learn, and work in any technological area irrespective of its difficulty. 
-+ I'm avid competitive programmer and a problem-solving enthusiast.
++ Final year undergrad pursuing my bachelor's degree in Computer Science & Engineering. 
++ Passionate full-stack developer who loves to explore, learn, and work in any technological area irrespective of its difficulty. 
++ Avid competitive programmer & problem-solving enthusiast.
 
 ## 💻 Tech Stack
 
