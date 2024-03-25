@@ -1,9 +1,9 @@
 # Hey ! I'm Shrikanth👋 ![Profile Views](https://komarev.com/ghpvc/?username=ShrikanthDeva&color=brightgreen)
 
-+ Final year undergrad pursuing my bachelor's degree in Computer Science & Engineering. 
++ SDE Intern @Zoho & final year cse undergrad. 
 + Passionate full-stack developer who loves to explore, learn, and work in any technological area irrespective of its difficulty. 
 + Avid competitive programmer & problem-solving enthusiast.
-
+<!----
 ## 💻 Tech Stack
 
 ### Languages
@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-<!-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+<!-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Back-end Tools
 
@@ -64,14 +64,14 @@
 ![Codeforces](	https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-
+-->
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrikanthDeva&layout=compact&langs_count=10&hide_progress=true)](https://github.com/ShrikanthDeva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrikanthDeva&layout=compact&langs_count=10)](https://github.com/ShrikanthDeva)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrikanthDeva&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/ShrikanthDeva)
 
 ## 🤝🏻 Connect with Me
 
 - LinkedIn: [shrikanth-devanathan](https://www.linkedin.com/in/shrikanth-devanathan/)
-- Email: [shri13kanth](mailto:shri13kanth@gmail.com)
+- Email: [shri13kanth@gmail.com](mailto:shri13kanth@gmail.com)
 - Leetcode: [kanth_007](https://leetcode.com/kanth_007/)
