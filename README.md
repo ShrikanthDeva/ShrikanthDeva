@@ -1,6 +1,6 @@
 # Hey ! I'm Shrikanth👋 ![Profile Views](https://komarev.com/ghpvc/?username=ShrikanthDeva&color=brightgreen)
 
-+ SDE Intern @Zoho & final year cse undergrad. 
++ Software Engineer @Zoho 
 + Passionate full-stack developer who loves to explore, learn, and work in any technological area irrespective of its difficulty. 
 + Avid competitive programmer & problem-solving enthusiast.
 <!----
@@ -64,14 +64,14 @@
 ![Codeforces](	https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
--->
+
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrikanthDeva&layout=compact&langs_count=10)](https://github.com/ShrikanthDeva)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrikanthDeva&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/ShrikanthDeva)
-
+-->
 ## 🤝🏻 Connect with Me
 
 - LinkedIn: [shrikanth-devanathan](https://www.linkedin.com/in/shrikanth-devanathan/)
-- Email: [shri13kanth@gmail.com](mailto:shri13kanth@gmail.com)
-- Leetcode: [kanth_007](https://leetcode.com/kanth_007/)
+- Email: [shrikanthdeva02@gmail.com](mailto:shri13kanth@gmail.com)
+<!-- Leetcode: [kanth_007](https://leetcode.com/kanth_007/) ->
