@@ -73,5 +73,5 @@
 ## 🤝🏻 Connect with Me
 
 - LinkedIn: [shrikanth-devanathan](https://www.linkedin.com/in/shrikanth-devanathan/)
-- Email: [shrikanthdeva02@gmail.com](mailto:shri13kanth@gmail.com)
+- Email: [shrikanthdeva02@gmail.com](mailto:shrikanthdeva02@gmail.com)
 <!-- Leetcode: [kanth_007](https://leetcode.com/kanth_007/) ->
